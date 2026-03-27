@@ -1,18 +1,27 @@
-# 👋 Hi, I'm a FiveM Developer
+# 👋 Hi, I'm Nathan
 
-I specialize in **FiveM development**, creating custom scripts, systems, and optimized server solutions.
+I'm a **FiveM Developer** focused on building custom scripts, improving server performance, and creating smooth roleplay experiences.
 
-## 💻 What I Do
+## 🔧 What I'm Working On
 
-* Custom FiveM scripts (ESX / QBCore)
-* Server optimization & performance fixes
-* UI (HTML, CSS, JS) integration
-* Bug fixing & system improvements
+* Developing and maintaining **FiveM servers**
+* Creating custom scripts & systems (ESX / QBCore)
+* Improving anti-cheat systems & server security
+* Optimizing performance and fixing issues
 
-## 🚀 Focus
+## 🛠️ Tools & Tech
 
-Building clean, efficient, and reliable resources for serious roleplay servers.
+* Lua
+* JavaScript
+* HTML / CSS
+* MySQL
+* FiveM Frameworks (ESX, QBCore)
 
-## 📫 Contact
+## 📫 Reach Me
 
-Open to work, collaborations, and projects.
+* Discord: okp2
+* GitHub: https://github.com/222nata
+
+---
+
+*Always working on improving and building better systems.*
