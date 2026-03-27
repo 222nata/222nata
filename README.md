@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm a FiveM Developer
 
-<!--
-**222nata/222nata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **FiveM development**, creating custom scripts, systems, and optimized server solutions.
 
-Here are some ideas to get you started:
+## 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Custom FiveM scripts (ESX / QBCore)
+* Server optimization & performance fixes
+* UI (HTML, CSS, JS) integration
+* Bug fixing & system improvements
+
+## 🚀 Focus
+
+Building clean, efficient, and reliable resources for serious roleplay servers.
+
+## 📫 Contact
+
+Open to work, collaborations, and projects.
