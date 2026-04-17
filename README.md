@@ -20,7 +20,10 @@ I'm a **FiveM Developer** focused on building custom scripts, improving server p
 ## 📫 Reach Me
 
 * Discord: okp2
+* Server: https://discord.gg/nxscripts
+* Website: https://nxscripts.com
 * GitHub: https://github.com/222nata
+
 
 ---
 
