@@ -27,4 +27,4 @@ I'm a **FiveM Developer** focused on building custom scripts, improving server p
 
 ---
 
-*Always working on improving and building better systems..* 
+*Always working on improving and building better systems.* 
